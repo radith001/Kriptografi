@@ -104,3 +104,4 @@ Untuk mendapatkan data laporan yang valid, ikuti langkah berikut:
 
 - **Padding**: Aplikasi menggunakan standar padding PKCS#7 agar data sesuai dengan blok size Blowfish (8 byte).
 - **Initialization Vector (IV)**: IV dibuat secara acak setiap kali enkripsi dan disisipkan di 8 byte pertama ciphertext (Prepend IV).
+a
